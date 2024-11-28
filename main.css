@@ -148,7 +148,7 @@ text-transform: uppercase;
     height: 796px;
     gap: 10px;
     opacity: 0px;
-    background-image: url(fon.jpg);   
+    background-image: url(img/fon.jpg);   
     
 }
 
@@ -420,7 +420,7 @@ text-transform: uppercase;
     height: 822px;
     gap: 10px;
     padding: 10px;
-    background-image: url(fon2.jpg);  
+    background-image: url(img/fon2.jpg);  
     }
     .text1sec5 {
         width: 349px;

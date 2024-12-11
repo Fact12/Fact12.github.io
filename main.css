@@ -120,17 +120,19 @@ margin-top: 49px;
 gap: 0px;
 opacity: 0px;
 border-radius: 100px;
-background: #D9D9D9;
 font-family: Inter;
 font-size: 40px;
 font-weight: 700;
 line-height: 48.41px;
 text-align: center;
 text-transform: uppercase;
+background-color:black;
+color: #d9d9d9;
+cursor: pointer;
 
 }
 .buttonsection1:hover {
-    background-color:yellow;
+    background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
 }
     
 .imagesection1 {

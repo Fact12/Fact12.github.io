@@ -1,4 +1,12 @@
 @import "style.css";
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
 .header {
 width: Hug 1440px;
 height:  154px;
